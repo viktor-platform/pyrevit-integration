@@ -1,0 +1,3 @@
+from pathlib import Path
+
+def specific_fix(root_dir: Path, apply: bool, keep_original: bool, patched_files: list) -> None: ...

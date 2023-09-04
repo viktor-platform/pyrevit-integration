@@ -1,0 +1,106 @@
+Metadata-Version: 2.1
+Name: viktor
+Version: 14.4.0
+Summary: SDK for building a VIKTOR application
+Home-page: https://www.viktor.ai/
+Author: VIKTOR
+Author-email: support@viktor.ai
+License: see LICENSE.txt
+Project-URL: Apps Gallery, https://www.viktor.ai/apps-gallery
+Project-URL: Community, https://community.viktor.ai/
+Project-URL: Documentation, https://docs.viktor.ai/docs/welcome
+Project-URL: Release notes, https://docs.viktor.ai/sdk/changelog
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: Free To Use But Restricted
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+Requires-Dist: munch (<3.0.0,>=2.5.0)
+Requires-Dist: numpy (>=1.15.0)
+Requires-Dist: pandas (<2.0.0,>=0.23.4)
+Requires-Dist: matplotlib (>=2.2.2)
+
+<p align="center">
+  <img src="https://docs.viktor.ai/img/viktor-logo-light.svg" />
+</p>
+
+![](https://img.shields.io/badge/release-v14.4.0-green)
+![](https://pepy.tech/badge/viktor)
+
+VIKTOR is a platform that makes it easy to create powerful and user-friendly web apps, all with pure Python! Create apps
+to automate your workflow, integrate with different software packages, and get better insights into your project through
+interactive visualizations.
+
+**Letâ€™s start: Automate the boring, Engineer the awesome!**
+
+- [Getting Started](https://docs.viktor.ai/docs/getting-started/): Are you new to VIKTOR? Then this is a good place to
+  start.
+- [Create Apps](https://docs.viktor.ai/docs/create-apps/): Learn how to create apps and get an overview of all available
+  features.
+- [Apps Gallery](https://www.viktor.ai/apps-gallery): Explore the app gallery, download the code, use it to create
+  your apps.
+
+# Examples
+
+Easily add one of 30+ input fields and buttons with just a single line of code:
+<p align="center">
+  <img src="https://www.viktor.ai/assets/illustrations/illustrationsFeatureEditor/illustration-feature-input-fields-app-code.png" />
+</p>
+
+Create a 3D model using VIKTOR components, or import it from Grasshopper, Dynamo, and more:
+<p align="center">
+  <img src="https://www.viktor.ai/assets/illustrations/illustrationsFeatureEditor/illustration-feature-3d-models-and-drawings-app-code.png" />
+</p>
+
+Add insightful graphs using your preferred library, like Matplotlib, Plotly or Bokeh:
+<p align="center">
+  <img src="https://www.viktor.ai/assets/illustrations/illustrationsFeatureEditor/illustration-feature-interactive-graphs-app-code.png" />
+</p>
+
+Display your data on a map or satellite view, or draw directly on the map and use the input for your calculations:
+<p align="center">
+  <img src="https://www.viktor.ai/assets/illustrations/illustrationsFeatureEditor/illustration-feature-maps-and-geospatial-data-app-code.png" />
+</p>
+
+Automatically generate custom reports using your own templates in Word, Excel, PDF, and more:
+<p align="center">
+  <img src="https://www.viktor.ai/assets/illustrations/illustrationsFeatureEditor/illustration-feature-reports-app-code.png" />
+</p>
+
+# LICENSE
+
+Read more about the terms and conditions here: https://www.viktor.ai/terms.
+
+```
+Copyright (c) VIKTOR B.V.
+
+The VIKTOR SDK is a software distributed by VIKTOR B.V., a Dutch corporation,
+based in Rotterdam, The Netherlands, at the Weena 738A, 3014DA, registered at
+The Netherlands Chamber of Commerce KVK under number 62601008.
+
+This software is protected by applicable copyright laws, including international
+treaties. This software is dual-licensed, which means the license terms may vary
+depending on your use of the software.
+
+When installing, copying, or otherwise using this software, commercial terms
+and/or specific license terms may apply. Contact support@viktor.ai to obtain
+information regarding the permitted use of this software and the applicable
+commercial terms and/or specific license terms, and to find out till what extent
+you can use this software on a free basis and when you need to enter a paid
+plan. If you do not contact VIKTOR, you may only use this software for personal,
+non-commercial testing and evaluation purposes, without the right to use the
+software for any commercial or other production purposes.
+
+VIKTOR PROVIDES THIS SOFTWARE ON AN "AS IS" BASIS, WITHOUT WARRANTIES OR
+CONDITIONS OF ANY KIND. IN NO EVENT AND UNDER NO LEGAL THEORY, SHALL VIKTOR
+BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY DIRECT, INDIRECT, SPECIAL,
+INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER ARISING FROM USE OR
+INABILITY TO USE THIS SOFTWARE.
+
+```

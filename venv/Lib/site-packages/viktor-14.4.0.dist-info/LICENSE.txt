@@ -1,0 +1,24 @@
+Copyright (c) VIKTOR B.V.
+
+The VIKTOR SDK is a software distributed by VIKTOR B.V., a Dutch corporation,
+based in Rotterdam, The Netherlands, at the Weena 738A, 3014DA, registered at
+The Netherlands Chamber of Commerce KVK under number 62601008.
+
+This software is protected by applicable copyright laws, including international
+treaties. This software is dual-licensed, which means the license terms may vary
+depending on your use of the software.
+
+When installing, copying, or otherwise using this software, commercial terms
+and/or specific license terms may apply. Contact support@viktor.ai to obtain
+information regarding the permitted use of this software and the applicable
+commercial terms and/or specific license terms, and to find out till what extent
+you can use this software on a free basis and when you need to enter a paid
+plan. If you do not contact VIKTOR, you may only use this software for personal,
+non-commercial testing and evaluation purposes, without the right to use the
+software for any commercial or other production purposes.
+
+VIKTOR PROVIDES THIS SOFTWARE ON AN "AS IS" BASIS, WITHOUT WARRANTIES OR
+CONDITIONS OF ANY KIND. IN NO EVENT AND UNDER NO LEGAL THEORY, SHALL VIKTOR
+BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY DIRECT, INDIRECT, SPECIAL,
+INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER ARISING FROM USE OR
+INABILITY TO USE THIS SOFTWARE.
